@@ -9,3 +9,8 @@ turning raw data into clear insights to boost efficiency and reduce waste.
 
 ### Dashboard File
 You can find the dashboard here: [`Manufacturing_Downtime.pbix`](/Manufacturing_Downtime.pbix)
+
+## Skills Showcased
+Here’s what we mastered along the way:
+
+- Data Transformation (ETL) with Power Query: Cleaned, shaped, and prepared the raw data for analysis by handling blanks, changing data types, and creating new columns.
