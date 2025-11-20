@@ -1,5 +1,4 @@
 # Manufacturing Downtime Analysis w/ Power BI
-# Manufacturing Downtime Analysis
 ### Digital Egypt Pioneers Initiative (DEPI) - Capstone Project
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -65,4 +64,4 @@ This project was created under the supervision of **Eng. Mahmoud Seraj**[cite: 8
 * **Sohaib Atef**
 
 ---
-*Developed as part of the Digital Egypt Pioneers Initiative (DEPI) - 2024/2025[cite: 19].*
+*Developed as part of the Digital Egypt Pioneers Initiative (DEPI) - 2024/2025.*
