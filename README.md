@@ -17,7 +17,7 @@ By analyzing key metrics and visualizing churn rates over time, the dashboard al
 The analysis is based on a dataset covering a **5-day production cycle**, including 61 downtime incidents across 38 batches and 4 operators.
 
 ### Dashboard File
-You can find the fild of the dashboard here: [`Manufacturing_Downtime_Dashobard`](/Manufacturing_Downtime.pbix)
+You can find the fild of the dashboard here: [`Manufacturing_Downtime_Dashobard.ppix`](/Manufacturing_Downtime.pbix)
 
 ## Objectives
 * **Performance Assessment:** Identify gaps in the manufacturing line's overall performance.
