@@ -5,10 +5,19 @@
 ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Executive Summary
+## Introduction
 This project delivers a rigorous analysis of industrial production line data to monitor and evaluate **'Downtime'**. Utilizing **Microsoft Power BI**, the project focuses on assessing operational efficiency, identifying root causes of delays, and providing actionable insights to minimize waste and boost productivity.
 
-The analysis is based on a real-world dataset covering a **5-day production cycle**, including 61 downtime incidents across 38 batches and 4 operators.
+By analyzing key metrics and visualizing churn rates over time, the dashboard allows businesses to:
+* Quickly identify the main driver of production delays (e.g., Operator Error vs. Machine Failure).
+* Minimize financial losses by reducing wasted time and materials.
+* Target specific operators or machines for immediate training or maintenance.
+
+
+The analysis is based on a dataset covering a **5-day production cycle**, including 61 downtime incidents across 38 batches and 4 operators.
+
+### Dashboard File
+You can find the fild of the dashboard here: [`Manufacturing_Downtime_Dashobard`](/Manufacturing_Downtime.pbix)
 
 ## Objectives
 * **Performance Assessment:** Identify gaps in the manufacturing line's overall performance.
@@ -16,8 +25,8 @@ The analysis is based on a real-world dataset covering a **5-day production cycl
 * **Product Efficiency:** Analyze time utilization per Product type and Batch.
 * **Data Modeling:** Build a structured schema for scalable analysis.
 
-## Technical Architecture
-
+## Skills Showcased
+Here's what we mastered along the way:
 ### 1. Data Preparation (ETL)
 Data transformation was performed using **Power Query (M Language)**:
 * **Data Cleaning:** Standardized units (e.g., converting "1 L" to "1000 ml") and corrected Operator IDs.
@@ -33,14 +42,33 @@ The project utilizes a **Fact Constellation (Galaxy) Schema** with selective Sno
 
 ## Dashboard Overview
 The interactive dashboard includes the following pages:
-1.  **Home Page:** Central navigation hub.
-2.  **Production Overview:** High-level KPIs including Efficiency Rate, Net Run Time, and Availability.
-3.  **Downtime Analysis:** Breakdown of downtime causes (Machine vs. Operator) and trends.
-4.  **Operator Performance:** Benchmarking operator efficiency and error rates.
-5.  **Drill-through Details:** Granular views for specific Products and Operators.
+### Page 1: Production Overview
 
-*(Optional: Add your dashboard screenshots here)*
-`![Dashboard Screenshot](path/to/image.png)`
+High-level KPIs including Efficiency Rate, Net Run Time, and Availability.
+
+![Production Overview Page](/assets/images/2-Production_Overview.jpg)
+
+### Page 2: Downtime Analysis
+
+Breakdown of downtime causes (Machine vs. Operator) and trends.
+
+![Downtime Analysis Page](/assets/images/3-Downtime_Analysis.jpg)
+
+### Page 3: Operator Performance
+
+Benchmarking operator efficiency and error rates.
+
+![Downtime Analysis Page](/assets/images/5-Operators_Performance.jpg)
+
+### Drill-through Details
+
+Granular views for specific Products and Operators.
+* Product Details
+![Downtime Analysis Page](/assets/images/4-Product_Details.jpg)
+
+* Operator Performance Details
+![Downtime Analysis Page](/assets/images/6-Operator_Details.jpg)
+
 
 ## Key Insights
 * **Critical Downtime:** Total downtime reached **36%**, reducing line availability to **64%**.
