@@ -92,7 +92,7 @@ This project was created under the supervision of **Eng. Mahmoud Seraj**.
 | **Hussien Habashy** | [Email](mailto:hussainahabashy@gmail.com) • [LinkedIn](https://www.linkedin.com/in/hussain-habachi-022aa8243/) • [WhatsApp](https://wa.me/201020054090) |
 | **Kareem AbdelHamied** | [Email](mailto:kareemabdelhamied97@gmail.com) • [LinkedIn](#) • [WhatsApp](https://wa.me/201149163763) |
 | **Mohammed Ali** | [Email](mailto:m.sarky@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mohamed-elsarky-72573b48/) • [WhatsApp](https://wa.me/201111009903) |
-| **Mohammed Ezzat** | [Email](mailto:mohamedazzat@gmail.com) • [LinkedIn](#) • [WhatsApp](https://wa.me/201017496391) |
+| **Mohammed Ezzat** | [Email](mailto:mohamedazzat@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mohamed-ezzat-mba-75a54956/) • [WhatsApp](https://wa.me/201017496391) |
 | **Sohaib Atef** | [Email](mailto:sohaib.aatef@gmail.com) • [LinkedIn](https://www.linkedin.com/in/sohaib-atef/) • [WhatsApp](https://wa.me/201002661419) |
 
 ---
