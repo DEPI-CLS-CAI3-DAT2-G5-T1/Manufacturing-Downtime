@@ -5,6 +5,8 @@
 ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+![Dashboard Preview](/assets/gif/Dashboard_Intro.gif)
+
 ## Introduction
 This project delivers a rigorous analysis of industrial production line data to monitor and evaluate **'Downtime'**. Utilizing **Microsoft Power BI**, the project focuses on assessing operational efficiency, identifying root causes of delays, and providing actionable insights to minimize waste and boost productivity.
 
