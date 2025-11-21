@@ -84,123 +84,14 @@ Granular views for specific Products and Operators.
 ## The Team (CLS-CA13-DAT2-G5-T1)
 This project was created under the supervision of **Eng. Mahmoud Seraj**.
 
-- **Hamza Bahgat**
-
-    <a href="mailto:youremail@example.com" target="_blank">
-    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#0078ff; color:white; cursor:pointer;">
-        Email
-    </button>
-    </a>
-    <a href="https://www.linkedin.com/in/USERNAME/" target="_blank">
-    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#0A66C2; color:white; cursor:pointer;">
-        LinkedIn
-    </button>
-    </a>
-    <a href="https://wa.me/201234567890" target="_blank">
-    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#25D366; color:white; cursor:pointer;">
-        WhatsApp
-    </button>
-    </a>
-    <br></br>
-
-- **Hussien Habashy**
-
-    <a href="mailto:youremail@example.com" target="_blank">
-    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#0078ff; color:white; cursor:pointer;">
-        Email
-    </button>
-    </a>
-    <a href="https://www.linkedin.com/in/USERNAME/" target="_blank">
-    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#0A66C2; color:white; cursor:pointer;">
-        LinkedIn
-    </button>
-    </a>
-    <a href="https://wa.me/201234567890" target="_blank">
-    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#25D366; color:white; cursor:pointer;">
-        WhatsApp
-    </button>
-    </a>
-    <br></br>
-
-- **Kareem AbdelHamied**
-    
-    <a href="mailto:youremail@example.com" target="_blank">
-    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#0078ff; color:white; cursor:pointer;">
-        Email
-    </button>
-    </a>
-    <a href="https://www.linkedin.com/in/USERNAME/" target="_blank">
-    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#0A66C2; color:white; cursor:pointer;">
-        LinkedIn
-    </button>
-    </a>
-    <a href="https://wa.me/201234567890" target="_blank">
-    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#25D366; color:white; cursor:pointer;">
-        WhatsApp
-    </button>
-    </a>
-    <br></br>
-
-- **Mohammed Ali**
-    
-    <a href="mailto:youremail@example.com" target="_blank">
-    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#0078ff; color:white; cursor:pointer;">
-        Email
-    </button>
-    </a>
-    <a href="https://www.linkedin.com/in/USERNAME/" target="_blank">
-    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#0A66C2; color:white; cursor:pointer;">
-        LinkedIn
-    </button>
-    </a>
-    <a href="https://wa.me/201234567890" target="_blank">
-    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#25D366; color:white; cursor:pointer;">
-        WhatsApp
-    </button>
-    </a>
-    <br></br>
-
-
-- **Mohammed Ezzat**
-    
-    <a href="mailto:youremail@example.com" target="_blank">
-    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#0078ff; color:white; cursor:pointer;">
-        Email
-    </button>
-    </a>
-    <a href="https://www.linkedin.com/in/USERNAME/" target="_blank">
-    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#0A66C2; color:white; cursor:pointer;">
-        LinkedIn
-    </button>
-    </a>
-    <a href="https://wa.me/201234567890" target="_blank">
-    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#25D366; color:white; cursor:pointer;">
-        WhatsApp
-    </button>
-    </a>
-    <br></br>
-
-
-- **Sohaib Atef**
-
-    <a href="mailto:youremail@example.com" target="_blank">
-    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#0078ff; color:white; cursor:pointer;">
-        Email
-    </button>
-    </a>
-    <a href="https://www.linkedin.com/in/USERNAME/" target="_blank">
-    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#0A66C2; color:white; cursor:pointer;">
-        LinkedIn
-    </button>
-    </a>
-    <a href="https://wa.me/201234567890" target="_blank">
-    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#25D366; color:white; cursor:pointer;">
-        WhatsApp
-    </button>
-    </a>
-    <br></br>
-
-
+| Member | Contact Info. |
+|-------|---------|
+| **Hamza Bahgat** | [Email](hamzabahgat53@gmail.com) • [LinkedIn](https://www.linkedin.com/in/hamza-ahmed-20a1aa36b/) • [WhatsApp](+201115566265) |
+| **Hussien Habashy** | [Email](hussainahabashy@gmail.com) • [LinkedIn](https://www.linkedin.com/in/hussain-habachi-022aa8243/) • [WhatsApp](+201020054090) |
+| **Kareem AbdelHamied** | [Email](kareemabdelhamied97@gmail.com) • [LinkedIn](#) • [WhatsApp](+201149163763) |
+| **Mohammed Ali** | [Email](m.sarky@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mohamed-elsarky-72573b48/) • [WhatsApp](+201111009903) |
+| **Mohammed Ezzat** | [Email](mohamedazzat@gmail.com) • [LinkedIn](#) • [WhatsApp](+201017496391) |
+| **Sohaib Atef** | [Email](sohaib.aatef@gmail.com) • [LinkedIn](https://www.linkedin.com/in/sohaib-atef/) • [WhatsApp](+201002661419) |
 
 ---
 *Developed as part of the Digital Egypt Pioneers Initiative (DEPI) - 2024/2025.*
