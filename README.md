@@ -86,34 +86,120 @@ This project was created under the supervision of **Eng. Mahmoud Seraj**.
 
 - **Hamza Bahgat**
 
-    [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="28" />](mailto:hamzabahgat53@gmail.com)
-    [<img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png">](https://www.linkedin.com/in/hamza-ahmed-20a1aa36b/)
+    <a href="mailto:youremail@example.com" target="_blank">
+    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#0078ff; color:white; cursor:pointer;">
+        Email
+    </button>
+    </a>
+    <a href="https://www.linkedin.com/in/USERNAME/" target="_blank">
+    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#0A66C2; color:white; cursor:pointer;">
+        LinkedIn
+    </button>
+    </a>
+    <a href="https://wa.me/201234567890" target="_blank">
+    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#25D366; color:white; cursor:pointer;">
+        WhatsApp
+    </button>
+    </a>
+    <br></br>
 
 - **Hussien Habashy**
 
-    [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="28" />](mailto:hussainahabashy@gmail.com)
-    [<img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png">](https://www.linkedin.com/in/hussain-habachi-022aa8243/)
+    <a href="mailto:youremail@example.com" target="_blank">
+    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#0078ff; color:white; cursor:pointer;">
+        Email
+    </button>
+    </a>
+    <a href="https://www.linkedin.com/in/USERNAME/" target="_blank">
+    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#0A66C2; color:white; cursor:pointer;">
+        LinkedIn
+    </button>
+    </a>
+    <a href="https://wa.me/201234567890" target="_blank">
+    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#25D366; color:white; cursor:pointer;">
+        WhatsApp
+    </button>
+    </a>
+    <br></br>
 
 - **Kareem AbdelHamied**
     
-    [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="28" />](mailto:kareemabdelhamied97@gmail.com)
-    [<img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png">](https://www.linkedin.com/in/USERNAME/)
+    <a href="mailto:youremail@example.com" target="_blank">
+    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#0078ff; color:white; cursor:pointer;">
+        Email
+    </button>
+    </a>
+    <a href="https://www.linkedin.com/in/USERNAME/" target="_blank">
+    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#0A66C2; color:white; cursor:pointer;">
+        LinkedIn
+    </button>
+    </a>
+    <a href="https://wa.me/201234567890" target="_blank">
+    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#25D366; color:white; cursor:pointer;">
+        WhatsApp
+    </button>
+    </a>
+    <br></br>
 
 - **Mohammed Ali**
     
-    [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="28" />](mailto:m.sarky@gmail.com)
-    [<img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png">](https://www.linkedin.com/in/USERNAME/)
+    <a href="mailto:youremail@example.com" target="_blank">
+    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#0078ff; color:white; cursor:pointer;">
+        Email
+    </button>
+    </a>
+    <a href="https://www.linkedin.com/in/USERNAME/" target="_blank">
+    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#0A66C2; color:white; cursor:pointer;">
+        LinkedIn
+    </button>
+    </a>
+    <a href="https://wa.me/201234567890" target="_blank">
+    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#25D366; color:white; cursor:pointer;">
+        WhatsApp
+    </button>
+    </a>
+    <br></br>
+
 
 - **Mohammed Ezzat**
     
-    [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="28" />](mailto:mohamedazzat@gmail.com)
-    [<img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png">](https://www.linkedin.com/in/USERNAME/)
+    <a href="mailto:youremail@example.com" target="_blank">
+    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#0078ff; color:white; cursor:pointer;">
+        Email
+    </button>
+    </a>
+    <a href="https://www.linkedin.com/in/USERNAME/" target="_blank">
+    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#0A66C2; color:white; cursor:pointer;">
+        LinkedIn
+    </button>
+    </a>
+    <a href="https://wa.me/201234567890" target="_blank">
+    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#25D366; color:white; cursor:pointer;">
+        WhatsApp
+    </button>
+    </a>
+    <br></br>
+
 
 - **Sohaib Atef**
 
-    [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="28" />](mailto:sohaib.aatef@gmail.com)
-    [<img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png">](https://www.linkedin.com/in/USERNAME/)
-    [<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="32" />](https://wa.me/201234567890)
+    <a href="mailto:youremail@example.com" target="_blank">
+    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#0078ff; color:white; cursor:pointer;">
+        Email
+    </button>
+    </a>
+    <a href="https://www.linkedin.com/in/USERNAME/" target="_blank">
+    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#0A66C2; color:white; cursor:pointer;">
+        LinkedIn
+    </button>
+    </a>
+    <a href="https://wa.me/201234567890" target="_blank">
+    <button style="padding:10px 18px; font-size:16px; border-radius:20px; border:none; background:#25D366; color:white; cursor:pointer;">
+        WhatsApp
+    </button>
+    </a>
+    <br></br>
+
 
 
 ---
